@@ -8,4 +8,4 @@
 - ⚡ Je lance beaucoup de projets et surtout aime venir en aide pour qu'un projet avance. J'aime bien arriver au début d'un projet et ne pas arriver à la fin au moment où tout va bien 
 
 ![Les Stats GitHub de Snipeur060](https://github-readme-stats.vercel.app/api?username=Snipeur060&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snipeur060)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snipeur060)
