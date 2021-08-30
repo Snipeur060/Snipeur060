@@ -1,7 +1,7 @@
 ### Salut 👋
 
 
-- 🔭 Je travaille actuellement sur un bot discord nommé FLYBOT
+- 🔭 Je travaille actuellement sur plusieurs site web avec base de donées
 - 🌱 J'apprend le React.js ainsi que le PHP mais en plus poussé
 - 💬 Je dev des sites web ainsi que des apk. Je travaille surtout en node.js avec des robots sur discord tout en travaillant sur des algorithmes
 - 📫 Pour me contacter vous pouvez par mail suportbotbysnipeur060@gmail.com ou sur discord 💻снайпер060⌨#8273
