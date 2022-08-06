@@ -11,6 +11,7 @@
 ### Frameworks
 > [![nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
 > [![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://fr.reactjs.org/)
+> [![Laravel](https://img.shields.io/badge/-Laravel-red?logo=laravel&logoColor=white&style=for-the-badge)](https://laravel.com/)
 >
 ### Tools
 > [![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
