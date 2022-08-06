@@ -15,8 +15,10 @@
 ### Tools
 > [![windows](https://img.shields.io/badge/Windows_11-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)
 > [![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
+> [![kali](https://img.shields.io/badge/Kali-blue?style=for-the-badge&logo=kali-linux&logoColor=black)](https://www.kali.org/)
+>
 > 
-- J'ai des bases avancé en PHP ainsi que SQL à ça on peut ajouter flask utilisé par certaine personne
+- J'ai des bases avancé en PHP ainsi que SQL à ça on peut ajouter flask utilisé par certaines personnes
 
 ![Les Stats GitHub de Snipeur060](https://github-readme-stats.vercel.app/api?username=Snipeur060&show_icons=true&theme=cobalt)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snipeur060)</br>
