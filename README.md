@@ -23,4 +23,3 @@
 ![Les Stats GitHub de Snipeur060](https://github-readme-stats.vercel.app/api?username=Snipeur060&show_icons=true&theme=cobalt)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snipeur060)</br>
 
-[![Discord](https://discord.c99.nl/widget/theme-2/558039389067018280.png)](http://discord.com/users/558039389067018280)
