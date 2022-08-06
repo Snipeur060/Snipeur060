@@ -1,5 +1,5 @@
 ### Salut 👋
- 📫 Pour me contacter vous pouvez par mail suportbotbysnipeur060@gmail.com ou sur discord Snipeur060dc#0161
+ 📫 Pour me contacter vous pouvez par mail suportbotbysnipeur060@gmail.com ou sur discord 💻снайпер060⌨#1913
 
 ### Les langages que je travaille:
 > [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
