@@ -29,8 +29,6 @@
 > [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
 
-- J'ai des bases avancé en PHP ainsi que SQL à ça on peut ajouter flask utilisé par certaines personnes
-
 ![Les Stats GitHub de Snipeur060](https://github-readme-stats.vercel.app/api?username=Snipeur060&show_icons=true&theme=cobalt)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snipeur060)</br>
 
