@@ -21,7 +21,11 @@
 > [![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
 > [![kali](https://img.shields.io/badge/Kali-blue?style=for-the-badge&logo=kali-linux&logoColor=black)](https://www.kali.org/)
 >
-> 
+
+### AI TECH
+> [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+
+
 - J'ai des bases avancé en PHP ainsi que SQL à ça on peut ajouter flask utilisé par certaines personnes
 
 ![Les Stats GitHub de Snipeur060](https://github-readme-stats.vercel.app/api?username=Snipeur060&show_icons=true&theme=cobalt)</br>
