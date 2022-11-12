@@ -34,3 +34,6 @@
 ![Les Stats GitHub de Snipeur060](https://github-readme-stats.vercel.app/api?username=Snipeur060&show_icons=true&theme=cobalt)</br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snipeur060)</br>
 
+### Trophy
+
+![](https://github-profile-trophy.vercel.app/?username=Snipeur060&theme=radical&no-frame=false&no-bg=true&margin-w=4)
