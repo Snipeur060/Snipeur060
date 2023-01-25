@@ -35,6 +35,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Snipeur060&theme=cobalt)</br>
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Snipeur060&theme=cobalt)</br>
+
+
+
 ### Trophy
 
 ![](https://github-profile-trophy.vercel.app/?username=Snipeur060&theme=radical&no-frame=false&no-bg=true&margin-w=4)
