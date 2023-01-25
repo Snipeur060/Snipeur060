@@ -1,8 +1,8 @@
 ![yoshiiii](yoshibanner.gif)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Snipeur060" alt="Snipeur060" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Snipeur060" alt="Snipeur060" /> </p> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&width=435&lines=Snipeur060)](README.md) 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=false&width=435&lines=Snipeur060)](README.md)
+
 
 ### Salut 👋
  📫 Pour me contacter vous pouvez par mail snipeur060@gmail.com ou sur discord ``💻снайпер060⌨#1913``
