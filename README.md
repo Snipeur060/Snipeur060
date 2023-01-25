@@ -3,7 +3,7 @@
 ### Salut 👋
  📫 Pour me contacter vous pouvez par mail snipeur060@gmail.com ou sur discord ``💻снайпер060⌨#1913``
 
-### Les langages que je travaille:
+### Les langages que je travaille
 > [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
 > [![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
 > [![php](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
