@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Snipeur060" alt="Snipeur060" /> </p>  
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Snipeur060)](https://git.io/typing-svg)
 ### Salut 👋
  📫 Pour me contacter vous pouvez par mail snipeur060@gmail.com ou sur discord ``💻снайпер060⌨#1913``
 
