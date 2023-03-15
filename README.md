@@ -3,8 +3,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Snipeur060" alt="Snipeur060" /> </p>
 
 
-### Salut 👋
- 📫 Pour me contacter vous pouvez par mail snipeur060@gmail.com ou sur discord ``💻снайпер060⌨#1913``
 
 ### Les langages que je travaille
 > [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
@@ -50,3 +48,6 @@
 ### Trophy
 
 ![](https://github-profile-trophy.vercel.app/?username=Snipeur060&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### Contact 
+ 📫 Pour me contacter vous pouvez par mail snipeur060@gmail.com ou sur discord ``💻снайпер060⌨#1913``
