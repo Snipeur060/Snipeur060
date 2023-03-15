@@ -42,7 +42,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Snipeur060&theme=cobalt)</br>
 
-## Contributions
+### Contributions
 <p align='center'>
 <img src="https://github.com/Snipeur060/Snipeur060/raw/output/github-contribution-grid-snake.svg">
 </p>
