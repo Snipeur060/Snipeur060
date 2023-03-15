@@ -4,9 +4,6 @@
 
 ## <p align="center" >[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Snipeur060)](README.md)<p>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Snipeur060" alt="Snipeur060" /> </p>
-
-
 
 ### Les langages que je travaille
 > [![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/fr/docs/Web/HTML)
@@ -52,6 +49,9 @@
 ### Trophy
 
 ![](https://github-profile-trophy.vercel.app/?username=Snipeur060&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### Counter
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Snipeur060" alt="Snipeur060" /> </p>
 
 ### Contact 
  📫 Pour me contacter vous pouvez par mail snipeur060@gmail.com ou sur discord ``💻снайпер060⌨#1913``
