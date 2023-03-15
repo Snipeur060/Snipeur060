@@ -2,7 +2,7 @@
 <img  src='https://wallpaperaccess.com/full/253816.jpg' width="90%" heigh="90%" />
 </p>
 
-## <p align="center" >[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Snipeur060)] <p>
+## <p align="center" >![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Snipeur060) <p>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Snipeur060" alt="Snipeur060" /> </p>
 
