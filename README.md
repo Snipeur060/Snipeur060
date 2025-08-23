@@ -42,4 +42,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Snipeur060" alt="Snipeur060" /> </p>
 
 ### Contact 
- 📫 Pour me contacter vous pouvez par mail snipeur060@gmail.com ou sur discord ``💻снайпер060⌨#1913``
+ 📫 Pour me contacter vous pouvez par mail snipeur060@gmail.com
